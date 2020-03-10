@@ -1,1 +1,1 @@
- This is Github bash version one.
+ This is Github bash version one and more information.
