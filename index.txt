@@ -1,1 +1,5 @@
+<<<<<<< HEAD
  This is Github bash version 6.
+=======
+ This is Github bash version one and more information.
+>>>>>>> f84695c658e2a4a35bafddfd53ba40d7ed5c1203
